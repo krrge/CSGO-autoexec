@@ -14,6 +14,10 @@ Counter-Strike: Global Offensive 用にカスタマイズした個人のコン�
 3. CS:GOを起動し、コンソールで以下を入力：
 <br><kbd>+exec autoexec.cfg
 
+## 起動オプション（Launch Options）
+
+<br><kbd>+exec autoexec.cfg -tickrate 64 -refresh 144 -console -novid -allow_third_party_software
+
 ## 特徴的な設定
 - 解像度：1280x960
 - 感度：2.35 / DPI: 400
@@ -26,6 +30,4 @@ Counter-Strike: Global Offensive 用にカスタマイズした個人のコン�
 - `f5` クロスヘア（ドット）
 - `f6` クロスヘア（クラシック）
 
-## 起動オプション（Launch Options）
 
-<br><kbd>+exec autoexec.cfg -tickrate 64 -refresh 144 -console -novid -allow_third_party_software
