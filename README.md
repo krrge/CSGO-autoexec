@@ -23,7 +23,6 @@ Counter-Strike: Global Offensive 用にカスタマイズした個人のコン�
 - クロスヘア：CSGO-iWRa3-DqFUz-bGwRx-mKUA2-hif4D
 
 ## キー設定（Keybinds）
-
 - `mouse5`：メイン武器
 - `mouse4`：サブ武器
 - `f5` クロスヘア（ドット）
