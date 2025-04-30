@@ -14,7 +14,7 @@ Counter-Strike: Global Offensive 用にカスタマイズした個人のコン�
 4. CS:GOを起動し、コンソールで以下を入力：
 <br><kbd>+exec autoexec.cfg
 
-## CS2の場合：
+## CS2の場合のパス：
 <br><kbd>...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 
 ## 起動オプション（Launch Options）
