@@ -28,4 +28,4 @@ Counter-Strike: Global Offensive 用にカスタマイズした個人のコン�
 - `f5` クロスヘア（ドット）
 - `f6` クロスヘア（クラシック）
 
-
+---
