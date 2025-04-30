@@ -10,24 +10,22 @@ Counter-Strike: Global Offensive 用にカスタマイズした個人のコン�
 ## 適用方法
 1. リポジトリをクローン、またはZIPでダウンロード
 2. ファイルを以下のパスに配置：
-<kbd>...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+<br><kbd>...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 3. CS:GOを起動し、コンソールで以下を入力：
-<kbd>+exec autoexec.cfg
+<br><kbd>+exec autoexec.cfg
 
-## 🛠️ 特徴的な設定
-- 解像度：1280x960 (4:3 ストレッチ)
-- 感度：1.8 / DPI: 800
-- クロスヘア：シンプルなクラシックスタイル
-- HUD：最小限で視認性重視
+## 特徴的な設定
+- 解像度：1280x960
+- 感度：2.35 / DPI: 400
+- クロスヘア：CSGO-iWRa3-DqFUz-bGwRx-mKUA2-hif4D
 
-## 🔁 更新履歴
-- 2025/04/30：初期バージョン公開
+## キー設定（Keybinds）
 
-## 🧠 その他
-- **ゲームバージョン**：最新のCS2（CS:GO からのアップデート対応済み）  
-- **互換性**：Steam版
+- `mouse5`：メイン武器
+- `mouse4`：サブ武器
+- `f5` クロスヘア（ドット）
+- `f6` クロスヘア（クラシック）
 
-## 📫 Contact
-質問や要望は [@__2x7](https://x.com/__2x7) までお気軽にどうぞ！
+## 起動オプション（Launch Options）
 
-
+<br><kbd>+exec autoexec.cfg -tickrate 64 -refresh 144 -console -novid -allow_third_party_software
