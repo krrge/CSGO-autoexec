@@ -31,5 +31,7 @@ Counter-Strike: Global Offensive 用にカスタマイズした個人のコン�
 - `mouse4`：サブ武器
 - `f5` クロスヘア（ドット）
 - `f6` クロスヘア（クラシック）
+- `mwheelup` ジャンプ
+- `mwheeldown` ジャンプ
 
 ---
