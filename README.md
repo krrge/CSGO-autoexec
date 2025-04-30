@@ -5,7 +5,8 @@ Counter-Strike: Global Offensive 用にカスタマイズした個人のコン�
 
 ## ファイル構成
 - `autoexec.cfg`：起動時に読み込まれる設定ファイル
-- `practice.cfg`：グレネード練習用
+- `practice.cfg`：マップ練習用
+- `nade.cfg`：グレネード練習用
 
 ## 適用方法
 1. リポジトリをクローン、またはZIPでダウンロード
