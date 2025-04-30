@@ -15,7 +15,6 @@ Counter-Strike: Global Offensive 用にカスタマイズした個人のコン�
 <br><kbd>+exec autoexec.cfg
 
 ## 起動オプション（Launch Options）
-
 <br><kbd>+exec autoexec.cfg -tickrate 64 -refresh 144 -console -novid -allow_third_party_software
 
 ## 特徴的な設定
