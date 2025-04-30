@@ -10,4 +10,4 @@ Counter-Strike: Global Offensive 用にカスタマイズした個人のコン�
 ## 適用方法
 1. リポジトリをクローン、またはZIPでダウンロード
 2. ファイルを以下のパスに配置：
-\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
