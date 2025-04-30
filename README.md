@@ -11,7 +11,9 @@ Counter-Strike: Global Offensive 用にカスタマイズした個人のコン�
 1. リポジトリをクローン、またはZIPでダウンロード
 2. ファイルを以下のパスに配置：
 <br><kbd>...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
-3. CS:GOを起動し、コンソールで以下を入力：
+CS2の場合：
+<br><kbd>...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
+4. CS:GOを起動し、コンソールで以下を入力：
 <br><kbd>+exec autoexec.cfg
 
 ## 起動オプション（Launch Options）
