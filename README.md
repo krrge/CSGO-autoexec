@@ -1,4 +1,4 @@
-# CS:GO Config by krrge
+# CS:GO Config
 
 ## Overview
 Counter-Strike: Global Offensive 用にカスタマイズしたコンフィグファイルを公開しています。
