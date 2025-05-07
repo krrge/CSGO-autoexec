@@ -1,7 +1,8 @@
 # CS:GO Config
 
-## Overview
 Counter-Strike: Global Offensive 用のコンフィグファイルを公開しています。
+
+---
 
 ## ファイル構成
 - `autoexec.cfg`：起動時に読み込まれる設定ファイル
@@ -20,6 +21,8 @@ Counter-Strike: Global Offensive 用のコンフィグファイルを公開し�
 
 ## 起動オプション（Launch Options）
 <kbd>+exec autoexec.cfg -tickrate 64 -refresh 144 -console -novid -allow_third_party_software
+
+---
 
 ## 特徴的な設定
 - 解像度：1280x960
