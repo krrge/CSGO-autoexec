@@ -36,5 +36,3 @@ Counter-Strike: Global Offensive 用のコンフィグファイルを公開し�
 - `f6` クロスヘア（クラシック）
 - `mwheelup` ジャンプ
 - `mwheeldown` ジャンプ
-
----
