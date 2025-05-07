@@ -10,10 +10,10 @@ Counter-Strike: Global Offensive 用のコンフィグファイルを公開し�
 - `nade.cfg`：グレネード練習用
 
 ## 適用方法
-1. リポジトリをクローン、またはZIPでダウンロード
+1. リポジトリをZIPでダウンロード
 2. ファイルを以下のパスに配置：
 <br><kbd>...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
-4. CS:GOを起動し、コンソールを開いて以下を実行：
+3. CS:GOを起動し、コンソールを開いて以下を実行：
 <br><kbd>exec autoexec.cfg
 
 ## CS2の場合のパス：
