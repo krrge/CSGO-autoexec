@@ -1,7 +1,7 @@
 # CS:GO Config
 
 ## Overview
-Counter-Strike: Global Offensive 用にカスタマイズしたコンフィグファイルを公開しています。
+Counter-Strike: Global Offensive 用のコンフィグファイルを公開しています。
 
 ## ファイル構成
 - `autoexec.cfg`：起動時に読み込まれる設定ファイル
