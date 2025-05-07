@@ -24,7 +24,7 @@ Counter-Strike: Global Offensive 用のコンフィグファイルを公開し�
 
 ---
 
-## 特徴的な設定
+## 他設定
 - 解像度：1280x960
 - 感度：2.35 / DPI: 400
 - クロスヘア：CSGO-iWRa3-DqFUz-bGwRx-mKUA2-hif4D
