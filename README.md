@@ -14,7 +14,7 @@ Counter-Strike: Global Offensive 用のコンフィグファイルを公開し�
 2. ファイルを以下のパスに配置：
 <br><kbd>...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 4. CS:GOを起動し、コンソールを開いて以下を実行：
-<br><kbd>+exec autoexec.cfg
+<br><kbd>exec autoexec.cfg
 
 ## CS2の場合のパス：
 <kbd>...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
