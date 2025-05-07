@@ -27,7 +27,7 @@ Counter-Strike: Global Offensive 用のコンフィグファイルを公開し�
 ## 他設定
 - 解像度：1280x960
 - 感度：2.35 / DPI: 400
-- クロスヘア：CSGO-iWRa3-DqFUz-bGwRx-mKUA2-hif4D
+- クロスヘア：CSGO-eSiJM-bXffX-69Uqc-J3PpU-D9DRE
 
 ## キー設定（Keybinds）
 - `mouse5`：メイン武器
