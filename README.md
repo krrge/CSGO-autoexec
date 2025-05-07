@@ -16,10 +16,10 @@ Counter-Strike: Global Offensive 用にカスタマイズしたコンフィグ�
 <br><kbd>+exec autoexec.cfg
 
 ## CS2の場合のパス：
-<br><kbd>...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
+<kbd>...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 
 ## 起動オプション（Launch Options）
-<br><kbd>+exec autoexec.cfg -tickrate 64 -refresh 144 -console -novid -allow_third_party_software
+<kbd>+exec autoexec.cfg -tickrate 64 -refresh 144 -console -novid -allow_third_party_software
 
 ## 特徴的な設定
 - 解像度：1280x960
